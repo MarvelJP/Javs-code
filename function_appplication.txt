@@ -1,0 +1,7 @@
+1) Avoid code redundancy  and ease maintenace
+2) MAke Code Modular
+        takeInput()
+        ProcessData()
+        PrpduceOutput()
+3)Abstration
+4)Avoid Variable name collisions
